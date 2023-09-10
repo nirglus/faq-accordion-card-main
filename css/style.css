@@ -60,6 +60,9 @@ body{
     justify-content: space-between;
     font-weight: 400;
     font-size: 18px;
-    color: hsl(237, 12%, 33%);
     margin-bottom: 0;
+}
+.questPara{
+    font-size: 14px;
+    color: hsl(240, 6%, 50%);
 }
