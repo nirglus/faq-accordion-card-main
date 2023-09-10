@@ -17,5 +17,20 @@ body{
     border-radius: 30px;
 }
 .imgDiv{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-image: url(../images/bg-pattern-desktop.svg);
+    width: 500px;
+    overflow: hidden;
+}
+.questions{
+    width:500px;
+}
+.woman-img{
+    position: absolute;
+    right: 100px;
+    
 }
