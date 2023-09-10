@@ -25,7 +25,8 @@ body{
     align-items: center;
     background-image: url(../images/bg-pattern-desktop.svg);
     width: 500px;
-    background-position: 101% 65%;
+    background-position: 112% 66%;
+    background-repeat: no-repeat;
 }
 .woman-img-div{
     display: flex;
@@ -53,4 +54,12 @@ body{
 .quest-ans{
     border-bottom: solid 1px hsl(240, 1%, 53%);
     width: 422px;
+}
+.questHeading{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 18px;
+    color: hsl(237, 12%, 33%);
+    margin-bottom: 0;
 }
