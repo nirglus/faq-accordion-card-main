@@ -68,3 +68,6 @@ body{
     color: hsl(240, 6%, 50%);
     display: none;
 }
+#faqH1{
+    padding: 50px 0 20px 0;
+}
