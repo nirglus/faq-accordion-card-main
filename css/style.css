@@ -25,12 +25,13 @@ body{
     background-image: url(../images/bg-pattern-desktop.svg);
     width: 500px;
     overflow: hidden;
+    background-position: 101% 65%;
 }
 .questions{
     width:500px;
 }
 .woman-img{
     position: absolute;
-    right: 100px;
-    
+    right: 37px;
+    width: 560px
 }
