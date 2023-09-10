@@ -10,3 +10,6 @@ body{
     display: flex;
     background-color: #fff;
 }
+.imgDiv{
+    background-image: url(../images/bg-pattern-desktop.svg);
+}
