@@ -26,6 +26,15 @@ body{
     width: 500px;
     background-position: 101% 65%;
 }
+.woman-img-div{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 600px;
+    overflow: hidden;
+}
 .questions{
     width:500px;
 }
