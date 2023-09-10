@@ -6,3 +6,7 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
 }
+.faq-card{
+    display: flex;
+    background-color: #fff;
+}
