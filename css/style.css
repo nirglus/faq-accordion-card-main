@@ -12,6 +12,8 @@ body{
 .faq-card{
     display: flex;
     background-color: #fff;
+    width: 1000px;
+    height:500px;
 }
 .imgDiv{
     background-image: url(../images/bg-pattern-desktop.svg);
