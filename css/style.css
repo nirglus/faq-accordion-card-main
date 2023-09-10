@@ -65,4 +65,5 @@ body{
 .questPara{
     font-size: 14px;
     color: hsl(240, 6%, 50%);
+    display: none;
 }
