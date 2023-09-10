@@ -47,9 +47,9 @@ body{
 }
 .box-img{
     position: absolute;
-    right: 385px;
-    bottom: 128px;
-    width: 248px; 
+    right: 373px;
+    bottom: 162px;
+    width: 248px;
 }
 .quest-ans{
     border-bottom: solid 1px hsl(240, 1%, 53%);
