@@ -5,11 +5,13 @@ function openScroll(){
     for(let i = 0; i < qHeadings.length; i++){
         qHeadings[i].addEventListener("click", function(){
             if(isScrollActive){
-                document.getElementsByClassName("questPara")[i].style.display = "none";
+                document.getElementsByClassName("questHeading")[i].style.fontWeight = "400";
                 qHeadings[i].style = "transform: rotate(0deg)";
+                document.getElementsByClassName("questPara")[i].style.display = "none";
             }else{
-                document.getElementsByClassName("questPara")[i].style.display = "block";
+                document.getElementsByClassName("questHeading")[i].style.fontWeight = "700";
                 qHeadings[i].style = "transform: rotate(180deg)";
+                document.getElementsByClassName("questPara")[i].style.display = "block";
             }
             isScrollActive = !isScrollActive;
         })
