@@ -24,7 +24,6 @@ body{
     align-items: center;
     background-image: url(../images/bg-pattern-desktop.svg);
     width: 500px;
-    overflow: hidden;
     background-position: 101% 65%;
 }
 .questions{
@@ -33,5 +32,11 @@ body{
 .woman-img{
     position: absolute;
     right: 37px;
-    width: 560px
+    width: 560px;
+}
+.box-img{
+    position: absolute;
+    right: 385px;
+    bottom: 128px;
+    width: 248px; 
 }
