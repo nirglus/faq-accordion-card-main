@@ -15,6 +15,11 @@ function openScroll(){
                 document.getElementsByClassName("arrow")[i].style = "transform: rotate(0deg)";
                 document.getElementsByClassName("questPara")[i].style.display = "none";
             }else{
+                for(let j = 0; j < qHeadings.length; j++){
+                    qHeadings[j].style.fontWeight = "400";
+                    document.getElementsByClassName("arrow")[j].style = "transform: rotate(0deg)";
+                    document.getElementsByClassName("questPara")[j].style.display = "none";
+                }
                 qHeadings[i].style.fontWeight = "700";
                 document.getElementsByClassName("arrow")[i].style = "transform: rotate(180deg)";
                 document.getElementsByClassName("questPara")[i].style.display = "block";
