@@ -13,8 +13,8 @@ body{
 .faq-card{
     display: flex;
     background-color: #fff;
-    width: 1000px;
-    height:670px;
+    width: 950px;
+    height: 530px;
     border-radius: 30px;
 }
 .imgDiv{
@@ -38,7 +38,7 @@ body{
     overflow: hidden;
 }
 .questions{
-    width:500px;
+    width: 373px;
 }
 .woman-img{
     position: absolute;
@@ -48,19 +48,19 @@ body{
 .box-img{
     position: absolute;
     right: 373px;
-    bottom: 162px;
+    bottom: 93px;
     width: 248px;
 }
 .quest-ans{
     border-bottom: solid 1px hsl(240, 1%, 53%);
-    width: 422px;
+    width: 378px;
     padding-bottom: 20px;
 }
 .questHeading{
     display: flex;
     justify-content: space-between;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 0;
     transition: color 0.2s;
 }
