@@ -89,6 +89,9 @@ body{
         width: unset;
         height: fit-content;
     }
+    .quest-ans{
+        width: 280px;
+    }
     #faqH1{
         padding: 0;
     }
@@ -99,5 +102,6 @@ body{
     .box-img{
         width: 200px;
     }
+
 
 }
