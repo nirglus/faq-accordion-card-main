@@ -14,7 +14,7 @@ body{
     display: flex;
     background-color: #fff;
     width: 950px;
-    height: fit-content;
+    height: 525px;
     border-radius: 30px;
 }
 .imgDiv{
