@@ -94,6 +94,10 @@ body{
     }
     .woman-img{
         width: 200px;
+        right: 0;
+    }
+    .box-img{
+        width: 200px;
     }
 
 }
