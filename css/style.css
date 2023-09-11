@@ -79,3 +79,8 @@ body{
 #faqH1{
     padding: 50px 0 20px 0;
 }
+@media (max-width: 600px){
+    .faq-card{
+        flex-direction: column;
+    }
+}
