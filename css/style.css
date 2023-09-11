@@ -82,7 +82,7 @@ body{
 @media (max-width: 600px){
     .faq-card{
         flex-direction: column;
-        width: unset;
+        width: 280px;
         height: fit-content;
     }
     .questions{
@@ -92,4 +92,8 @@ body{
     #faqH1{
         padding: 0;
     }
+    .woman-img{
+        width: 200px;
+    }
+
 }
