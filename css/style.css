@@ -28,6 +28,9 @@ body{
     background-position: 112% 66%;
     background-repeat: no-repeat;
 }
+.two-imgs{
+    position: absolute;
+}
 .woman-img-div{
     display: flex;
     position: relative;
