@@ -83,4 +83,8 @@ body{
     .faq-card{
         flex-direction: column;
     }
+    .questions{
+        width: unset;
+        height: fit-content;
+    }
 }
