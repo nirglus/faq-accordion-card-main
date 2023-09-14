@@ -96,6 +96,10 @@ body{
     .questHeading{
         font-size: 12px;
     }
+    .questPara{
+        font-size: 11px;
+        width: 240px;
+    }
     #faqH1{
         padding: 0;
         font-size: 20px;
