@@ -101,8 +101,9 @@ body{
         font-size: 11px;
     }
     .questPara{
-        font-size: 11px;
-        width: 240px;
+        font-size: 10px;
+        width: 210px;
+        margin-bottom: 0;
     }
     #faqH1{
         padding: 0;
