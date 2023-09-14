@@ -81,6 +81,9 @@ body{
     padding: 50px 0 20px 0;
 }
 @media (max-width: 600px){
+    body{
+        height: 108vh;
+    }
     .faq-card{
         flex-direction: column;
         width: 280px;
