@@ -95,10 +95,21 @@ body{
     }
     #faqH1{
         padding: 0;
+        font-size: 20px;
+    }
+    .imgDiv{
+        width: unset;
+        background-image: none;
     }
     .woman-img{
-        width: 200px;
+        width: 140px;
         right: 0;
+    }
+    .woman-img-div{
+        height: 140px;
+        width: 140px;
+        right: 0;
+        background-image: url(../images/bg-pattern-mobile.svg);
     }
     .box-img{
         width: 200px;
