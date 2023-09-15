@@ -116,14 +116,14 @@ body{
         background-image: none;
     }
     .woman-img{
-        width: 175px;
+        width: 204px;
         right: 0;
     }
     .woman-img-div{
-        width: 175px;
-        height: 174px;
+        width: 204px;
+        height: 184px;
         right: 0;
-        background-position: -1px 23px;
+        background-position: 0px 7px;
         background-image: url(../images/bg-pattern-mobile.svg);
         background-size: contain;
     }
