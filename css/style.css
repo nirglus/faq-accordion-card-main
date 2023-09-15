@@ -123,11 +123,11 @@ body{
         width: 175px;
         height: 175px;
         right: 0;
+        background-position: -1px 23px;
         background-image: url(../images/bg-pattern-mobile.svg);
+        background-size: contain;
     }
     .box-img{
         width: 200px;
     }
-
-
 }
