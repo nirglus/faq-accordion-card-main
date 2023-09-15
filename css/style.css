@@ -87,6 +87,9 @@ body{
     .questHeading{
         width: 333px;
     }
+    .questPara{
+        width: 312px;
+    }
 }
 @media (max-width: 600px){
     body{
