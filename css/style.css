@@ -80,6 +80,14 @@ body{
 #faqH1{
     padding: 50px 0 20px 0;
 }
+@media (min-width: 600px) and (max-width: 1000px){
+    .faq-card{
+        transform: scale(0.6);
+    }
+    .questHeading{
+        width: 333px;
+    }
+}
 @media (max-width: 600px){
     body{
         height: 130vh;
