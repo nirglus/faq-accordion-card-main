@@ -82,7 +82,7 @@ body{
 }
 @media (max-width: 600px){
     body{
-        height: 108vh;
+        height: 130vh;
     }
     .faq-card{
         flex-direction: column;
