@@ -121,10 +121,10 @@ body{
     }
     .woman-img-div{
         width: 204px;
-        height: 184px;
+        height: 210px;
         right: 0;
         bottom: 16px;
-        background-position: 0px 7px;
+        background-position: 0px 33px;
         background-image: url(../images/bg-pattern-mobile.svg);
         background-size: contain;
     }
